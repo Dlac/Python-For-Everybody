@@ -1,0 +1,54 @@
+ Danny Lac
+E-Mail- Dannylac334@yahoo.com
+9217 Rose St. • Rosemead • CA, 91770 • Phone: (626) 602-5957
+________________________________________
+Professional Experience
+Noble Iron, Pico Rivera, California	(Mar. 2016 – Present) 
+Business Analyst
+•	Promote telematics through Texada software and Fleet Logic App while expanding  the business process of Asset Share
+•	Increased user base for Fleet Logic by 13% well as negotiated new contracts for Texada CRM software
+•	Ran weekly query reports regarding fleet updates and direct report to VP of Growth and Strategy
+•	Lead the analytics team for all fleet sale’s pricings, quotes, and packaged deals.
+•	Worked closely with Operations, Logistics, and Finance to ensure smooth transactions with customers and clients
+•	Researched, bundled, and strategically sold off $1.3 million dollars of company debt
+•	Conducted A/B testing for all email marketing promotions and campaigns through MailChimp
+•	Performed competitive market research to identify trends, while translating them into data visualizations
+•	Established data governance processes to ensure quality across various data sources: Rouse Analytics, EquipmentWatch, Dodge Analytics & Machinery Trader
+•	Monitored KPI’s to measure success of new features while translating insights into improvements, resulting in increase of  conversion rates by 63%
+•	Ran weekly query reports regarding fleet updates and project progressions for all upper management 
+•	Handled all products ranging in 7 different categories as well as providing explanations and analysis 
+•	Designed, setup and maintained all Salesforce standard objects, custom objects and junction objects
+•	Structured all user roles, security profiles and workflow rules within Salesforce Noble Iron
+Tenet Healthcare, Anaheim, California	
+	Financial Analyst											(Mar. 2015 – Mar. 2016)
+•	Conducted quantitative analysis of financial data to forecast revenue, identify trends in data, and assess risk in new hospital acquisitions and mergers.
+•	Reviewed contracts with insurance carriers to ensure all rates as well language structures are correctly written
+•	Ran ad hoc reports for contract modeling within all regions
+•	Compiled and manipulated patient data to make informed decisions when structuring  new deals and negotiating rates
+•	Performed market research regarding trends in hospital rates amongst competitors, and strategizing proposal counters
+•	Modeled national pricing contracts (ranging from $20M-$500M in revenue) between Tenet and major payors e.g. Aetna, Cigna, BCBS, highlighting the impact on revenue from pricing and contract structure fluctuations
+•	Developed comprehensive reports, pivot tables, and charts to present recommendations to upper management
+•	Audited contracts for payment issues and perform quality assurance on all products
+•	Implemented Microsoft SQL server management studio into operations for data manipulation
+	Tenet Healthcare, Anaheim, California
+	Project Manager										 	(Nov. 2015 – Jan. 2016)
+•	In charge of all Cigna Healthcare products for National team
+•	Oversaw Cigna project as well as participated in negotiation discussions with revenue ranging in $300 million plus
+•	Worked with manager to verify all structure of contracts were accurate as well as correcting errors
+•	Delegated 5 man team in launching 1/1/16 effective rates and performed analysis to ensure quality assurance
+Orange County Transportation Authority, Orange, California	(July 2013 – June 2014) 
+Risk Management Intern
+•	Analysis of costs reports, financial reports, expense accounts, and spreadsheets.
+•	Assist in preparing specifications for projects or preliminary reports along with actuarial studies.
+•	Leader of team project for management of L drive within the system database.
+________________________________________
+Education
+	California State Polytechnic University Pomona							                       (June 2014)
+•	School of Business Administration - Bachelor of Science in Finance
+	General Assembly											       (Mar. 2016)
+•	SQL Boot camp
+Coursera											      (May 2016 – Present)
+•	MySQL, Python, R Programming & Tableau
+________________________________________Additional Skills 
+•	Knowledge of Salesforce, MySQL, Relational Databases, Basic Python, Tableau,  SaaS, Startups
+•	Proficient in Microsoft Excel: (MACROS, IF, Pivot Tables, VLOOKUP, INDEX MATCH), Word, PowerPoint, & Outlook
